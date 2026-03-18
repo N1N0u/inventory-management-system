@@ -18,12 +18,6 @@ Desktop application for managing inventory, sales, clients, and suppliers.
 - Developed By
 
 ---
-## 📌 About
-This project is a freelance desktop application developed in 1 week.
-It helps businesses manage:
-- Stock and inventory
-- Sales and purchases
-- Clients and suppliers
 # 📌 About
 This project represents a freelance desktop application developed in 1 week for managing business operations.
 
