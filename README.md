@@ -76,25 +76,25 @@ Backend handles:
 ---
 ## 📸 Screenshots
 ### 📊 Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.PNG)
 
 ### 📦 Stock Management
-![Stock](screenshots/stock.png)
+![Stock](screenshots/stock.PNG)
 
 ### 👥 Client Management
-![Client](screenshots/client.png)
+![Client](screenshots/client.PNG)
 
 ### 💳 Credit Management
-![Credit](screenshots/crédits.png)
+![Credit](screenshots/crédits.PNG)
 
 ### 💰 Sales (My Sales)
-![Sales](screenshots/msales.png)
+![Sales](screenshots/msales.PNG)
 
 ### 🛒 Purchases (My Purchase)
-![Purchase](screenshots/purchase.png)
+![Purchase](screenshots/purchase.PNG)
 
 ### 🏷️ Selling Interface
-![Selling](screenshots/sales.png)
+![Selling](screenshots/sales.PNG)
 ---
 ## 🔒 Source Code Notice
 This project was developed as a freelance solution.
