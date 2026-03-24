@@ -96,6 +96,6 @@ Source code is shared for portfolio purposes.
 
 ---
 ## 👨‍💻 Developed By
-Freelance Java Developer
+ATEF Aliat
 
 _Last Updated: March 2026_
